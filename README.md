@@ -1,3 +1,3 @@
 # curriculum.github.io
-My resume website
-\nDownload resume in PDF version above
+My resume website.
+Download resume in PDF version above.
